@@ -105,7 +105,7 @@
         "speed": 40,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#2f6fed",
+        "bg_light": "#e8a5a5",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -134,7 +134,7 @@
         "html_3hXKDG": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<p style=\"margin-bottom: 16px;\">😌 <strong>Deep Hydration</strong> — 24-hour moisture with hyaluronic acid and squalane.</p>\n<p style=\"margin-bottom: 16px;\">✨ <strong>Visible Firmness</strong> — Freeze-dried collagen plumps and lifts from day one.</p>\n<p style=\"margin-bottom: 16px;\">🌸 <strong>Dewy Glow</strong> — Lit-from-within radiance, clinically tested.</p>"
           }
         },
         "quantity_selector_KBHMhn": {
@@ -180,7 +180,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "portable-eye-massager",
+        "product": "medicube-jelly-cream-with-collagen-pink",
         "show_product_name": true,
         "title_size": 100,
         "heading_tag": "h2",
@@ -219,7 +219,7 @@
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery",
+            "text": "Authentic Korean Skincare · 24H Hydration · Free Shipping · Cash on Delivery",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -236,10 +236,10 @@
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
-        "speed": 20,
+        "speed": 32,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#e8a5a5",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -328,7 +328,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#2f6fed",
+        "bg_light": "#e8a5a5",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
