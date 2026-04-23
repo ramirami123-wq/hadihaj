@@ -205,7 +205,7 @@
         "show_arrow_button": true,
         "mobile_media_size": "75%",
         "show_thumnail_mobile": true,
-        "image_ratio": "3/4",
+        "image_ratio": "square",
         "thumbnail_position": "horizontal",
         "enable_image_zoom": false,
         "zoom_effect": "enlarge",
