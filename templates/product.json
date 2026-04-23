@@ -684,7 +684,7 @@
         "swiper_on_mobile": true,
         "auto_play": true,
         "change_bar_every": 5,
-        "background_color_light": "#2f6fed",
+        "background_color_light": "#e8a5a5",
         "heading_light": "#ffffff",
         "text_light": "#ffffff",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
