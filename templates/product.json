@@ -539,16 +539,6 @@
     "faq_byLxM7": {
       "type": "faq",
       "blocks": {
-        "frequently_asked_question_tdwyep": {
-          "type": "frequently_asked_question",
-          "settings": {
-            "icon": "heart",
-            "another_icon": "",
-            "custom_icon": "",
-            "heading": "Questions? We've Got Answers.",
-            "row_content": "<p>After cleansing and toner, scoop a pea-sized amount and gently pat over face and neck. Use morning and night. Can be layered under SPF or makeup.</p>"
-          }
-        },
         "frequently_asked_question_qKUeCx": {
           "type": "frequently_asked_question",
           "settings": {
@@ -591,7 +581,6 @@
         }
       },
       "block_order": [
-        "frequently_asked_question_tdwyep",
         "frequently_asked_question_qKUeCx",
         "frequently_asked_question_T8qWR8",
         "frequently_asked_question_p9THCx",
