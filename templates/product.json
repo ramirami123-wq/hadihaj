@@ -328,34 +328,10 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_DcFckr": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_pf9z9Y",
-        "button_DcFckr"
+        "heading_pf9z9Y"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -464,34 +440,10 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_zpWWi9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Add to Cart",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_phxWYV",
-        "button_zpWWi9"
+        "heading_phxWYV"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
